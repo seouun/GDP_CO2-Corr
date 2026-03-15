@@ -12,6 +12,7 @@
 |------|------|
 | `analysis.ipynb` | 1차 분석: 상관관계 시각화 탐색 |
 | `analysis_advanced.ipynb` | 2차 분석: 시계열 확장 분석 |
+| `report.pdf` | 1차 분석 결과 보고서 |
 ---
 
 ## 분석 구성
