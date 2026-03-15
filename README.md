@@ -12,8 +12,6 @@
 |------|------|
 | `analysis.ipynb` | 1차 분석: 상관관계 시각화 탐색 |
 | `analysis_advanced.ipynb` | 2차 분석: 시계열 확장 분석 |
-| `data/README_data.md` | 데이터 출처 및 다운로드 안내 |
-
 ---
 
 ## 분석 구성
@@ -44,8 +42,7 @@
 
 Kaggle에서 데이터셋을 다운로드하여 노트북과 **같은 폴더**에 저장.
 
-🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022)
-
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022)
 저장 파일명: `gdp_co2_by_country_v2.csv`
 
 ---
