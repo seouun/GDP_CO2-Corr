@@ -44,7 +44,7 @@
 
 Kaggle에서 데이터셋을 다운로드하여 노트북과 **같은 폴더**에 저장.
 
-🔗 [Kaggle Dataset]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022))
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022)
 
 저장 파일명: `gdp_co2_by_country_v2.csv`
 
