@@ -5,8 +5,11 @@
 
 # GDP–CO₂ Analysis: Economic Growth and Carbon Emissions
 
-A data analysis project exploring the relationship between GDP and CO₂ emissions across countries.
+> Analyzing the relationship between economic growth and carbon emissions to identify global patterns of coupling and decoupling.
+
+A data analysis project exploring the relationship between GDP and CO₂ emissions across countries.  
 This study examines patterns of coupling and decoupling between economic growth and carbon emissions through visualization-driven exploratory analysis and extended time-series analysis.
+
 ---
 
 ## Repository Structure
@@ -16,6 +19,7 @@ This study examines patterns of coupling and decoupling between economic growth 
 | `analysis.ipynb` | Initial analysis: exploratory correlation visualization |
 | `analysis_advanced.ipynb` | Advanced analysis: extended time-series analysis |
 | `report.pdf` | Report summarizing initial analysis results |
+
 ---
 
 ## Analysis Overview
@@ -48,28 +52,32 @@ Download the dataset from Kaggle and place it in the **same directory** as the n
 
 🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/mackness/global-gdp-and-co-emissions-dataset-19602022)
 
-File name: gdp_co2_by_country_v2.csv
+File name: `gdp_co2_by_country_v2.csv`
+
 ---
 
 ## Key Findings
 
-- A strong positive correlation between total GDP and CO₂ emissions is observed in many countries
-- Greater variability is found in per capita measures, with some countries showing negative correlations
-- High-income countries (Germany, Sweden) exhibit increasing decoupling trends over time
-- The Decoupling Index reveals heterogeneity across countries and time periods
-- Differences between total and per capita results highlight structural complexity
-  → The growth–emissions relationship varies depending on population size, economic level, and emission structure
+- A strong positive correlation between total GDP and CO₂ emissions is observed in many countries  
+- Greater variability is found in per capita measures, with some countries showing negative correlations  
+- High-income countries (Germany, Sweden) exhibit increasing decoupling trends over time  
+- The Decoupling Index highlights structural differences in growth–emissions relationships across countries and periods  
+- Differences between total and per capita results indicate underlying structural complexity  
+  → The relationship between economic growth and emissions varies depending on population size, economic level, and emission structure  
+- The framework provides insights for evaluating sustainable growth and carbon policy directions  
+
 ---
 
 ## Limitations & Future Work
 
-- Correlation analysis does not imply causality
-- The impact of trade regulations such as **CBAM** requires further investigation
-- Future work may extend to econometric approaches (e.g., panel regression, causal inference)
+- Correlation analysis does not imply causality  
+- The impact of trade regulations such as **CBAM** requires further investigation  
+- Additional variables (e.g., energy mix, industrial structure) were not incorporated due to data limitations  
+- Future work may extend to econometric approaches (e.g., panel regression, causal inference) and incorporate richer external datasets  
 
 ---
 
 ## Environment
 
-- **Language**: Python 3.x
-- **Libraries**: pandas, numpy, matplotlib, seaborn
+- **Language**: Python 3.x  
+- **Libraries**: pandas, numpy, matplotlib, seaborn  
