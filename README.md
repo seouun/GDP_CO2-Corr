@@ -5,7 +5,7 @@
 
 # GDP–CO₂ Analysis: Economic Growth and Carbon Emissions
 
-##A data analysis project exploring the relationship between GDP and CO₂ emissions across countries.
+A data analysis project exploring the relationship between GDP and CO₂ emissions across countries.
 This study examines patterns of coupling and decoupling between economic growth and carbon emissions through visualization-driven exploratory analysis and extended time-series analysis.
 ---
 
